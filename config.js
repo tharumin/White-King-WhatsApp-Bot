@@ -48,17 +48,17 @@ global.socialm = "GitHub: udavinw" //ur github or insta name
 global.location = "Sri Lanaka" //ur location
 
 //bot bombdy
-global.botname = "White King V-1" //ur bot name
+global.botname = "White King WhatsApp Bot V-1" //ur bot name
 global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/XzaRCsA.mp4' } //gif and video menu
 global.packname = "Cheems Bot Stickers\n\n\n🦄🦄🦄 "
 global.author = "🦄Udavin Wijesundara"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['9461192103'] //ur owner tag
+global.ownertag = ['94761192103'] //ur owner tag
 global.ownernummenu = ['94761192103'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/udavinw/white-king-test"
+global.watermark = "UW TECH SHOW." //ur watermark
+global.botscript = "https://github.com/uwtechshow/White-King-WhatsApp-Bot"
 global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
 global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
 
