@@ -10946,7 +10946,8 @@ case 'tqtt':
 	if (isBanChat) return reply(mess.banChat)
 reply(`Thanks to
 LORD BUDDHA
-Xeon (Me)
+Udavin (Me)
+Xeon (Script Owner)
 My family
 And all friends who helped assemble this sexy script !!!`)
 break
